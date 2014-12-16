@@ -1,233 +1,163 @@
-Makers Academy
-===================
+# Makers Academy
 
-#####This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit. All project Titles are clickable links.
+This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com).
 
-Pre-Course
------------
+## Pre-Course
 
-  - [x] Introduction
-  - [x] Expectations
-  - [x] Command Line
+#### [x] [Student Directory](https://github.com/deniseyu/student-directory)
 
-        - Walkthrough
-        - Exercises
-  - [x] Version Control (git)
+## Week 1
 
-        - Walkthrough
-        - Exercises
-  - [x] Ruby
+#### Technologies
 
-        - Exercises from links
-        - Makers' Pills
-        - Makers' Quizlet/Memrise
+  - Ruby
+  - RSpec
+  - Git
 
-  - [x] [Student Directory](https://github.com/Scully87/student-directory)
+#### Learning Objectives
 
-        - First Project
+  - Test-Driven Development with RSpec
+  - Object-Oriented Design with Class-Responsiblity Cards
 
-  - [x] Useful Links:
-        - [Try Git](https://try.github.io/levels/1/challenges/1)
-        - [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-        - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
-        - [Learn to Program](https://pine.fm/LearnToProgram/)
-        - [Code Academy](http://www.codecademy.com/tracks/ruby)
-        - [Ruby in 20 Mins](https://www.ruby-lang.org/en/documentation/quickstart/)
-        - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
-        - [Ruby Koans](http://rubykoans.com)
+#### Projects:
 
-Week 1
----------
+  - [x] [Boris Bikes - Take One](https://github.com/deniseyu/boris-bikes)
+  - [x] [Boris Bikes - Take Two](https://github.com/deniseyu/boris-bikes-2)
+  - [x] [FAAST](https://github.com/deniseyu/FAAST) (Weekend Challenge)
+  - [x] [Version Control Challenge](https://github.com/deniseyu/octocat)
 
-####Technologies Used:
+## Week 2
+
+#### Technologies
+
   - Ruby
   - RSpec
 
-####Projects:
+#### Learning Objectives
 
-  - [x] Introduction
+  - Working in teams
+  - Agile processes
+  - SOLID Design Principles
+  - Design Patterns
 
-  - [x] [Boris Bikes](https://github.com/Scully87/BoringBikes) (Weekday Challenge)
+#### Projects:
 
-        - CRC
-        - TDD
-        - BDD
-        - OOD
-        - OOP
-        - RSpec
+  - [x] [BattleShips](https://github.com/camillavk/BattleShips)
+  - [x] [Takeaway](https://github.com/deniseyu/takeaway) (Weekend Challenge)
+  - [x] [Fizzbuzz - a simple Ruby kata](https://github.com/deniseyu/fizzbuzz)
 
-  - [x] [FAAST](https://github.com/Scully87/FAAST) (Weekend Challenge)
+## Week 3
 
-        - Chicago Style Testing (Version 1)
+#### Technologies
 
-  - [x] [VAAST](https://github.com/Scully87/VAAST) (Weekend Challenge)
-
-        - London Style Testing (Version 2)
-
-  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge) (Friday Challenge)
-
-        - Github Practice
-
-Week 2
----------
-
-####Technologies Used:
-  - Ruby
-  - RSpec
-
-####Projects:
-
-  - [x] [BattleShips](https://github.com/camillavk/BattleShips) (Weekday Challenge)
-
-        - Team Working
-        - Modelling Domain
-        - The game engine
-        - User Interface
-
-  - [x] [Take-Away](https://github.com/Scully87/Take_Away) (Weekend Challenge)
-
-        - Twilio Gem
-
-  - [x] [Fizzbuzz](https://github.com/Scully87/FizzBuzz)
-
-        - Simple Ruby Kata
-
-  - [x] [Decorator Pattern](https://github.com/Scully87/Decorator_Patternn)
-
-        - Presentation for a SOLID principle
-
-
-Week 3
----------
-
-####Technologies Used:
   - Ruby
   - RSpec
   - Sinatra
   - Cucumber
   - Capybara
-  - HTML
+  - HTML5
+  - CSS3
 
-####Projects:
+#### Learning Objectives
 
-  - [x] [BattleShips Web](https://github.com/camillavk/BattleShips) (Weekday Challenge)
+  - Designing a simple framework-based web application
+  - Behavior-Driven Design with Cucumber and Capybara
+  - User Experience
+  - Translating object-oriented back-end logic to front-end web design
+  - Simple web forms
 
-        - Sinatra
-        - Cucumber
-        - Capybara
-        - Sessions
-        - Params
+#### Projects
 
-  - [x] [Rock Paper Scissors](https://github.com/Scully87/Rock_Paper_Scissors) (Weekend Challenge)
+  - [x] [BattleShips Web](https://github.com/camillavk/BattleShips)
+  - [x] [Rock Paper Scissors](https://github.com/deniseyu/rock-paper-scissors)
+  - [x] [Inject Method](https://github.com/deniseyu/inject-challenge)
+  - [x] [Pokemon Game](https://github.com/deniseyu/pokemon-game)
 
-        - Using knowledge from weekday challenge to create a version of RPS in the browser
+## Week 4
 
-  - [x] [Inject Method](https://github.com/Scully87/Ruby_Inject_Method)
+#### Technologies
 
-        - Opening up the Inject method to get a better understanding
-
-
-  - [x] [Sinatra Test](https://github.com/Scully87/Sinatra_fun)
-
-        - A test repository to understand Sinatra
-
-  - [x] [Cucumber Test](https://github.com/Scully87/Cucumber)
-
-        - A test repository to understand Cucumber
-
-Week 4
---------
-
-####Technologies Used:
   - Ruby
   - RSpec
   - Sinatra
   - Capybara
   - PostgresQL
-  - HTML
-  - CSS
+  - DataMapper
+  - HTML5
+  - CSS3
 
-####Projects:
+#### Learning Objectives
 
-  - [x] [Bookmark Manager](https://github.com/Scully87/Bookmark-Manager/tree/master/Bookmark_Manager) (Weekday Challenge)
+  - Relational Databases
+  - Basic CRUD apps in Sinatra
+  - Behavior-Driven Development with RSpec
+  - User account management and password encryption
 
-        - Learning how to use Databases
+#### Projects
 
-  - [x] [Twitter Clone](https://github.com/Scully87/Gritter) (Weekend Challenge)
+  - [x] [Bookmark Manager](https://github.com/deniseyu/bookmark-manager)
+  - [x] [Chitter, i.e. Twitter clone](https://github.com/deniseyu/octochat)
+  - [x] [Student lecture on Sinatra form sanitizing](https://github.com/henryaj/makers-notes/blob/master/database_security_notes.md)
 
-        - Creating a twitter clone using Databases.
+## Week 5
 
-Week 5
----------
+#### Technologies
 
-####Technologies Used:
   - Javascript
   - Jasmine
-  - io
-  - HTML
-  - CSS
+  - jQuery
+  - Io
+  - HTML5
+  - CSS3
   - Sinatra
 
-####Projects:
+#### Learning Objectives
 
-  - [x] [Pokemon Game](https://github.com/Scully87/pokemon-game)
+  - Introduction to Javascript and jQuery
+  - CSS webkit animations
+  - Deploy a simple Javascript application with Sinatra server on Heroku
+  - Build a single-page Rock Paper Scissors app using client-side Javascript
 
-        - Re-creating a version of RPS using a different scenario
+#### Projects
 
-  - [x] [Fizzbuzz io](https://github.com/Scully87/fizzbuzz_io)
+  - [x] [Fizzbuzz kata in io](https://github.com/deniseyu/fizzbuzz-io)
+  - [x] [Fizzbuzz kata in JS](https://github.com/deniseyu/javabuzz)
+  - [x] [Airport](https://github.com/deniseyu/airport)
+  - [x] [Rock Paper Scissors JS](https://github.com/deniseyu/RockPaperScissorsJS)
+  - [ ] [Bowling kata in JS]
 
-        - Learnt how to use the programming language io by doing a simple kata
+## Week 6
 
-  - [x] [Javabuzz](https://github.com/Scully87/Javabuzz)
+#### Technologies
 
-        - Learnt how to use the programming language javascript by doing a simple kata
-
-  - [ ] [Airport](https://github.com/Scully87/Airport_JS)
-
-        - Used javascript to create an OOP program
-
-  - [ ] [FAAST JS](https://github.com/Scully87/FAAST_JS)
-
-        - Another OOP program to recreate a previous project in Ruby
-
-  - [ ] [Rock Paper Scissors JS](https://github.com/Scully87/RockPaperScissors_Javascript)
-
-        - Re-creating RPS in javascript language
-
-  - [ ] [Up Your Alley](https://github.com/Scully87/Up-Your-Alley)(Weekend project)
-
-        - Crreating a ten pin bowling scorer in Javascript
-
-Week 6
---------
-
-####Technologies Used:
   - Javascript
-  - Jasmine
-  - HTML
-  - CSS
-  - APIs
-  - Sinatra
   - JQuery
+  - Jasmine
+  - HTML5
+  - CSS3
+  - APIs
+  - AJAX
+  - Sinatra
+  - HandlebarsJS
 
-####Projects:
+#### Learning Objectives
 
-  - [x] [Thermostat](https://github.com/Scully87/Thermostat_js)
+  - Responsive design in a single-page web application
+  - Make a JSON request to a third-party API (i.e. Github)
+  - Understand structure of AJAX requests and responses
+  - Build a server-side API in Sinatra
+  - Templating with HandlebarsJS
 
-        - Created a program to show current temperature and local weather report in a static location (London).
+#### Projects
 
-  - [x] [Github Profiles API](https://github.com/Scully87/github_api)
+  - [x] [Thermocat](https://github.com/deniseyu/Thermocat)
+  - [x] [Github Profile Fetcher](https://github.com/Scully87/github_api)
+  - [ ] [Chitter Redux]
 
-        - Created a simple page to show the use of Github user profiles through the developer API
+## Week 7
 
-  - [x] [Chitter](https://github.com/Scully87/Chitter_v8)(Weekend Challenge)
+#### Technologies
 
-        - A Twitter clone using Javascript and your own API to display the tweets
-
-Week 7
--------
-
-####Technologies Used:
   - Javascript
   - JQuery
   - Node.js
@@ -235,99 +165,88 @@ Week 7
   - CoffeeScript
   - Mocha
 
-####Projects:
+#### Learning Objectives
 
-  - [x] [Chatter](https://github.com/Scully87/chat-example)
+  - Asynchronous event handling in Node.js
+  - Server-side Javascript
+  - CoffeeScript
+  - BDD and TDD with Mocha
 
-        - A simple server using sockets to make a chat program
+#### Projects
 
-  - [x] [CoffeeBuzz](https://github.com/Scully87/Coffee_Buzz)
+  - [x] [learnyounode](https://github.com/deniseyu/node-practice)
+  - [x] [Socket.io Webchat Server](https://github.com/Scully87/chat-example)
+  - [ ] [CoffeeBuzz](https://github.com/Scully87/Coffee_Buzz)
+  - [ ] [Makers IDE]
+  - [ ] [Yeoman tutorial]
+  - [ ] [Node-MongoDB tutorial]
 
-        - A simple kata to understand the CoffeeScript language
+## Week 8
 
-Week 8
---------
+#### Technologies
 
-####Technologies Used:
   - Ruby
-  - Rails
-  - JQuery
-  - HTML
-  - CSS
+  - Rails 4
+  - PostgresQL
+  - ActiveRecord
+  - jQuery
+  - AJAX
+  - HTML5
+  - CSS3
   - Devise
-  - Omniauth
+  - Omniauth (for Facebook OAuth)
+  - Square Payments API
+  - RSpec
+  - Poltergeist
+  - Selenium
 
-####Projects:
+#### Learning Objectives
 
-  - [x] [Yelp Clone](https://github.com/Scully87/Yelp_clone)(weekday project)
+#### Projects
 
-        - A project to understand the fundamentals of Ruby on Rails
+  - [x] [Ruby Refresher](https://github.com/deniseyu/ruby-refresher)
+  - [x] [Yelp Clone](https://github.com/deniseyu/yelp-clone)
+  - [x] [Instacat](https://github.com/deniseyu/pinstagram)
 
-  - [x] [TIMstagram](https://github.com/Scully87/TIMstagram)(Weekend Challenge)
+## Week 9
 
-        - A weekend project to re-create [Instagram](http://www.instagram.com)
+In Week 9, we had a three-day "Make-a-thon". [Sandrine](https://github.com/MadameSardine), [Pablo](https://github.com/galicians), and [Andrew](https://github.com/snozza), and I built two browser-based re-imaginings of Pacman. The first iteration is written in Angular on an ExpressJS server, and the second is in HTML5 canvas.
 
-Week 9
---------
+#### Technologies Used
 
-####Technologies Used:
-  - Javasript
+  - Javascript
   - JQuery
-  - Node.js
+  - AngularJS
+  - NodeJS
+  - ExpressJS
   - Socket.io
-  - Github API
-  - HTML
-  - CSS
+  - HTML5 Canvas
+  - CSS3
+  - Karma
+  - Mocha
 
-####Projects:
+#### Learning Objectives
 
-  - [x] [GitRacer](https://github.com/zrasool88/gitRacer)(Makeathon Week)
+#### Projects
 
-        - A program created to update live commit information of a users github profile.
+  - [x] [Hacman Angular](https://github.com/galicians/pacmanGrid)
+  - [x] [Hacman Canvas](https://github.com/snozza/pacman)
 
-Week 10
----------
+## Week 10
 
-####Technologies Used:
+#### Technologies
+
   - Ruby
   - RSpec
   - Javascript
   - Node
   - Express
 
-####Projects:
+#### Projects
 
-  - [x] [Sinatra Template Gem](https://github.com/Scully87/sinatra_template_gem) || [Click Here for Gem](http://rubygems.org/gems/sinatra_template)
+## Weeks 11 & 12
 
-        - Created a gem for a simple Sinatra app Template complete with required CSS files and JQuery
-
-  - [x] [Testing Steve's "Make a Gem called"](https://github.com/Scully87/testing_gem_with_steve)
-
-    - Testing a gem creator by fellow maker [HatStephens](https://github.com/HatStephens) to be able to publish my own gem || [Click Here for the 'Make me a Gem Called' Gem](http://rubygems.org/gems/make_me_a_gem_called)
-
-  - [x] [Sinatra Template](https://github.com/Scully87/Sinatra-Template)
-
-        - Simple sinatra template
-
-  - [x] [Node Server Template](https://github.com/Scully87/Express_Template)
-
-        - Simple Node-Express server template
-
-  - [x] [Meta Programming](https://github.com/Scully87/Meta_Programming)
-
-        - Learning how to use meta programming with Ruby
-
-  - [x] [Javascripting](https://github.com/Scully87/Javascripting)
-
-        - Javascript practice
-
-Final Project
-===============
-
-Week 11
----------
-
-####Technologies Used:
+#### Technologies
 
   - Ruby
   - Rails
@@ -336,25 +255,15 @@ Week 11
   - CSS
   - jQuery
 
-####Projects
+#### Project
 
-  - [x] [REWARDR](https://github.com/HatStephens/FATS_Rewardr)
+  - [x] [Pandapop](https://github.com/MadameSardine/pandapop)
 
+#### Additional Projects
 
-Week 12
----------
-
- - [x] [BADRGR](https://github.com/Scully87/FATS_badgr)
-
- ####Technologies Used:
-
-  - Phonegap
-  - Javascript
-  - HTML5
-  - CSS3
-
-
-
-
-
-
+  - [x] [Pair Programming Tool]
+  - [x] [Personal Website]
+  - [x] [Pokemon Catcher]
+  - [x] [Wix TextSupport App]
+  - [x] [FilmSnob Soundcloud Extension]
+  - [x] [Confession Board]
