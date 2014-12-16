@@ -4,7 +4,7 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
 
 ## Pre-Course
 
-#### [x] [Student Directory](https://github.com/deniseyu/student-directory)
+- [x] [Student Directory](https://github.com/deniseyu/student-directory)
 
 ## Week 1
 
@@ -212,7 +212,7 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
 
 In Week 9, we had a three-day "Make-a-thon". [Sandrine](https://github.com/MadameSardine), [Pablo](https://github.com/galicians), and [Andrew](https://github.com/snozza), and I built two browser-based re-imaginings of Pacman. The first iteration is written in Angular on an ExpressJS server, and the second is in HTML5 canvas.
 
-#### Technologies Used
+#### Technologies
 
   - Javascript
   - JQuery
@@ -259,7 +259,7 @@ In Week 9, we had a three-day "Make-a-thon". [Sandrine](https://github.com/Madam
 
   - [x] [Pandapop](https://github.com/MadameSardine/pandapop)
 
-#### Additional Projects
+## Additional Projects
 
   - [x] [Pair Programming Tool]
   - [x] [Personal Website]
