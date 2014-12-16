@@ -71,7 +71,6 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
   - [x] [BattleShips Web](https://github.com/camillavk/BattleShips)
   - [x] [Rock Paper Scissors](https://github.com/deniseyu/rock-paper-scissors)
   - [x] [Inject Method](https://github.com/deniseyu/inject-challenge)
-  - [x] [Pokemon Game](https://github.com/deniseyu/pokemon-game)
 
 ## Week 4
 
@@ -151,7 +150,7 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
 #### Projects
 
   - [x] [Thermocat](https://github.com/deniseyu/Thermocat)
-  - [x] [Github Profile Fetcher](https://github.com/Scully87/github_api)
+  - [x] [Github Profile Fetcher](https://github.com/deniseyu/github-fetcher)
   - [ ] [Chitter Redux]
 
 ## Week 7
@@ -176,7 +175,6 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
 
   - [x] [learnyounode](https://github.com/deniseyu/node-practice)
   - [x] [Socket.io Webchat Server](https://github.com/Scully87/chat-example)
-  - [ ] [CoffeeBuzz](https://github.com/Scully87/Coffee_Buzz)
   - [ ] [Makers IDE]
   - [ ] [Yeoman tutorial]
   - [ ] [Node-MongoDB tutorial]
@@ -185,8 +183,8 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
 
 #### Technologies
 
-  - Ruby
   - Rails 4
+  - Ruby
   - PostgresQL
   - ActiveRecord
   - jQuery
@@ -194,7 +192,7 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
   - HTML5
   - CSS3
   - Devise
-  - Omniauth (for Facebook OAuth)
+  - Omniauth (with Facebook OAuth)
   - Square Payments API
   - RSpec
   - Poltergeist
@@ -227,6 +225,12 @@ In Week 9, we had a three-day "Make-a-thon". [Sandrine](https://github.com/Madam
 
 #### Learning Objectives
 
+  - Working in teams
+  - Agile development
+  - Scoping a project
+  - Kanban-based project management
+  - Introduction to new frontend technologies (HTML5 Canvas, Angular)
+
 #### Projects
 
   - [x] [Hacman Angular](https://github.com/galicians/pacmanGrid)
@@ -246,6 +250,8 @@ In Week 9, we had a three-day "Make-a-thon". [Sandrine](https://github.com/Madam
 
 ## Weeks 11 & 12
 
+The final two weeks of Makers Academy are dedicated to final projects. These projects are designed to be a showcase of best practices and technologies learned during the course.
+
 #### Technologies
 
   - Ruby
@@ -261,9 +267,9 @@ In Week 9, we had a three-day "Make-a-thon". [Sandrine](https://github.com/Madam
 
 ## Additional Projects
 
-  - [x] [Pair Programming Tool]
-  - [x] [Personal Website]
-  - [x] [Pokemon Catcher]
-  - [x] [Wix TextSupport App]
-  - [x] [FilmSnob Soundcloud Extension]
-  - [x] [Confession Board]
+  - [x] [Pair Programming Tool](https://github.com/deniseyu/pair-programming-tool)
+  - [x] [Personal Website](https://github.com/deniseyu/personal-website)
+  - [x] [Pokemon Catcher](https://github.com/deniseyu/pokemon-game)
+  - [x] [Wix TextSupport App](https://github.com/Wix-sock/node-server)
+  - [x] [FilmSnob Gem Soundcloud Extension](https://github.com/maxjacobson/film_snob/commit/722ce1b453f07e02762b9ae8dc1acce04cb881e4)
+  - [x] [Confession Board](https://github.com/deniseyu/confession-board)
