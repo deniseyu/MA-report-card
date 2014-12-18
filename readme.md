@@ -23,8 +23,8 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
 
   - [x] [Boris Bikes - Take One](https://github.com/deniseyu/boris-bikes)
   - [x] [Boris Bikes - Take Two](https://github.com/deniseyu/boris-bikes-2)
-  - [x] [FAAST](https://github.com/deniseyu/FAAST) (Weekend Challenge)
-  - [x] [Version Control Challenge](https://github.com/deniseyu/octocat)
+  - [x] [FAAST](https://github.com/deniseyu/FAAST-challenge) (Weekend Challenge)
+  - [x] [Version Control Challenge](https://github.com/deniseyu/the-cat)
 
 ## Week 2
 
@@ -150,7 +150,7 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
 #### Projects
 
   - [x] [Thermocat](https://github.com/deniseyu/Thermocat)
-  - [x] [Github Profile Fetcher](https://github.com/deniseyu/github-fetcher)
+  - [x] [Github Profile Fetcher](https://github.com/deniseyu/github-fetching)
   - [ ] [Chitter Redux]
 
 ## Week 7
@@ -174,7 +174,6 @@ This repository has been created to show a weekly breakdown of my 12 weeks at [M
 #### Projects
 
   - [x] [learnyounode](https://github.com/deniseyu/node-practice)
-  - [x] [Socket.io Webchat Server](https://github.com/Scully87/chat-example)
   - [ ] [Makers IDE]
   - [ ] [Yeoman tutorial]
   - [ ] [Node-MongoDB tutorial]
@@ -245,8 +244,17 @@ In Week 9, we had a three-day "Make-a-thon". [Sandrine](https://github.com/Madam
   - Javascript
   - Node
   - Express
+  - Angular
+
+#### Learning Objectives
+
+  - Ruby metaprogramming
+  - Introduction to Python, PHP, Clojure, Java
+  - Wrap up previous projects
 
 #### Projects
+
+  - [x] [Personal website](https://github.com/deniseyu/personal-website)
 
 ## Weeks 11 & 12
 
